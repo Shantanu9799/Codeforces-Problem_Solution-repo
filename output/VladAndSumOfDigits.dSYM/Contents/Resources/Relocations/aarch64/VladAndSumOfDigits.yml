@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/shantanuchatterjee/Git_Folder/Codeforces-Problem_Solution-repo/output/VladAndSumOfDigits'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z11sumOfDigitsi, symObjAddr: 0x0, symBinAddr: 0x100003BD0, symSize: 0x64 }
+  - { offsetInCU: 0x4451, offset: 0x4451, size: 0x8, addend: 0x0, symName: __ZNSt3__14endlB7v160006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_, symObjAddr: 0x18C, symBinAddr: 0x100003D5C, symSize: 0x58 }
+  - { offsetInCU: 0x4491, offset: 0x4491, size: 0x8, addend: 0x0, symName: __ZNSt3__19use_facetB7v160006INS_5ctypeIcEEEERKT_RKNS_6localeE, symObjAddr: 0x270, symBinAddr: 0x100003E40, symSize: 0x2C }
+  - { offsetInCU: 0x6D4A, offset: 0x6D4A, size: 0x8, addend: 0x0, symName: __Z11sumOfDigitsi, symObjAddr: 0x0, symBinAddr: 0x100003BD0, symSize: 0x64 }
+  - { offsetInCU: 0x6D84, offset: 0x6D84, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x64, symBinAddr: 0x100003C34, symSize: 0xFC }
+  - { offsetInCU: 0x6E9F, offset: 0x6E9F, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsB7v160006EPFRS3_S4_E, symObjAddr: 0x160, symBinAddr: 0x100003D30, symSize: 0x2C }
+  - { offsetInCU: 0x6ED1, offset: 0x6ED1, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEE5widenB7v160006Ec, symObjAddr: 0x1E4, symBinAddr: 0x100003DB4, symSize: 0x8C }
+  - { offsetInCU: 0x6F3D, offset: 0x6F3D, size: 0x8, addend: 0x0, symName: __ZNKSt3__15ctypeIcE5widenB7v160006Ec, symObjAddr: 0x29C, symBinAddr: 0x100003E6C, symSize: 0x38 }
+...
