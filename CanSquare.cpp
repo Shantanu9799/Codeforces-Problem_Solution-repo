@@ -26,6 +26,7 @@ int main() {
  
         cout << canSquare(n, a) << endl;
     }
+    return 0;
 }
 
 

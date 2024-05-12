@@ -33,4 +33,5 @@ int main() {
         cin >> s;
         diffString(s);
     }
+    return 0;
 }

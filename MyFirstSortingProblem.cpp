@@ -12,4 +12,5 @@ int main() {
         // min max
         cout << min(x, y) << " " << max(x, y) << endl;
     }
+    return 0;
 }
